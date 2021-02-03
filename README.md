@@ -8,4 +8,6 @@ This is a Photo Editor made with react js
 
 run `npm start`
 
-You can edit the photo that is visible on your screen
+You can edit the Image that is visible on your screen
+
+you will find that Image here [App.css](https://github.com/himansh-gjr/Photo-Editor-with-react/blob/main/src/App.css)
